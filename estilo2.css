@@ -1,0 +1,31 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: rgb(245, 241, 241);
+    
+    }
+    .logo{
+     width: 80 ;
+    height: 60;
+    position: center;
+    }
+    body{
+        height: 100%;
+        margin: 0;
+        padding: 0;
+         background-color: rgb(238, 218, 218);
+        background-size: cover;
+        display:flex;
+        flex-direction:row;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        
+    }
+    
+    
+    
+
+

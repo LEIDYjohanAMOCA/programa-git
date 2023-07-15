@@ -1,0 +1,89 @@
+*{
+  background-color: #000;
+  margin: 0;
+  padding: 0;
+  border: 0;
+
+}
+.head {
+  display: flex;
+  align-items: rihgt;
+  justify-content: space-between;
+  height: 100px;
+  position:relative;
+  width: 90%;
+  z-index: 20;
+  
+}
+
+img {
+position: relative;
+float: left;
+width: 150%;
+height: 220px;
+margin-right:auto;
+
+}
+.mydiv{
+  margin: 0;
+  padding-left: 280px;
+  text-align: right;
+  height: 100px;
+  color: blueviolet;
+  font-size: 80px;
+  position: center;
+  margin-top: 15px;
+
+   
+}
+
+ h1{
+  color: rgb(33, 226, 233);
+  font-size: 60px;
+  text-align: center;
+  font-family: cursive;
+  height: 50%;
+  top: 90px;
+  left: 90%;
+  margin-top: 180px;
+
+}
+p{
+  color: rgb(216, 184, 216);
+  font-size:80px;
+  text-align: center;
+  height: 50%;
+}
+
+hr{
+  border: 1px solid #30dbdb;
+  height: 0px;
+  width: 100%;
+  text-align: center;
+  margin-top: 280px;
+  
+}
+a{
+  margin-top: 30px;
+  color: #8e21d6;
+  text-decoration: none;
+  letter-spacing: -9px;
+  word-spacing: 10px;
+  margin-top: 200%;
+  margin-top: 200%;
+  font-size: 80px;
+  width: auto;
+  height: 500px;
+  
+}
+
+#apartado{
+  border: 1px solid #21d1c8;
+  border-radius: 80px;
+  width: 50%;
+  height: 0px;
+  position:relative;
+  margin:center;
+  margin-top: 15%;
+  text-align: 90%;
+}

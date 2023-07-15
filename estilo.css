@@ -1,0 +1,53 @@
+
+
+*{
+	margin: 0;
+	padding: 0;
+	box-shadow:none;
+	box-sizing: url(img/android-chrome-192x192.png);
+	background-color: #000000;
+	
+}
+body{
+	font-family: 'Open Sans';
+}
+
+header{
+	background-color: #1dd8d8;
+	text-align: center;
+	padding: 2px;
+
+}
+nav a{
+	display: inline-block;
+	text-decoration: none;
+	color: #696969;
+	margin: 0 30px;
+	padding: 5px 15px;
+	border-radius: 30px;
+}
+nav a:hover {
+	background-color: #000;
+	color: #fff;
+}
+.encabezado{
+	background-size: cover;
+	height: 450px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	color: #df851f;
+}
+.encabezado-img p{
+	font-size: 18px;
+}
+.encabezado-img h1{
+	font-size: 50px;
+	
+	padding: 15px 0;
+
+}
+
+
+
